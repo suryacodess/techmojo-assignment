@@ -1,4 +1,4 @@
-# Techmojo Assignment
+# Techmojo Assignment - https://techmojo-assignment.netlify.app
 
 ## To run the application on your local computer - 
 - First clone this project using the "git clone" command or download the zip file from GitHub.
